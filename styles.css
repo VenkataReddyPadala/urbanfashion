@@ -93,3 +93,9 @@ nav ul li a{
     padding-right:20px;
     font-size: 14px;
 }
+.media a:hover{
+    color:black;
+}
+nav ul li a:hover{
+    color: #6a7199;
+}
